@@ -12,4 +12,4 @@ Checkout my <strong>live</strong> projects:
 
 ![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
 
-I'm currently working at <a href="https://github.com/grupobotcario">Grupo Boticário</a> in the Digital Analytics team.
+I'm currently working at <a href="https://github.com/grupoboticario">Grupo Boticário</a> in the Digital Analytics team.
