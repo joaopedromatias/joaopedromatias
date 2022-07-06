@@ -4,7 +4,7 @@ My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil
 
 I love development 💻 and I'm currently improving my skills on Front End.
 
-Checkout my <strong>live</strong> projects: 
+Checkout my live projects: 
 
 - <a href="https://github.com/joaopedromatias">Quiz Game</a> <i>soon</i> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
