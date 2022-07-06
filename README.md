@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**joaopedromatias/joaopedromatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil 
 
-Here are some ideas to get you started:
+I love development 💻 and I'm currently improving my skills on Front End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checkout my <strong>live</strong> projects: 
+
+- <a href="https://github.com/joaopedromatias">Quiz Game</a> <i>soon</i> 🕹️
+- <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
+
+
+![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
+
+I'm currently working at <a href="https://github.com/grupobotcario">Grupo Boticário</a> in the Digital Analytics team.
