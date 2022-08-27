@@ -6,7 +6,7 @@ I love development 💻 and I'm currently improving my skills on Front End.
 
 Checkout my live projects: 
 
-- <a href="https://github.com/joaopedromatias">Quiz Game</a> <i>soon</i> 🕹️
+- <a href="https://react-quiz-game-tdb.netlify.app/">Quiz Game</a> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
 
 
