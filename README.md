@@ -2,7 +2,7 @@
 
 My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil 
 
-I love development 💻 and I'm currently improving my skills on both `Front End` and `Data Analytics`.
+I love development 💻 and I'm currently improving my skills on both `Front End` and `Back End`.
 
 Checkout my live projects: 
 
