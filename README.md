@@ -6,9 +6,9 @@ I love development 💻 and I'm currently improving my skills on both `Front End
 
 ## Checkout my projects: 
 
-- <a href="https://github.com/joaopedromatias/next-js-notes-app/">Notes App</a> 📝 - demonstration on README
-- <a href="https://quiz-play-it.netlify.app/">Quiz Game</a> 🕹️
-- <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
+- <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - demonstration on README
+- <a href="https://quiz-play-it.netlify.app/"><strong>Quiz Game</strong></a> 🕹️
+- <a href="https://star-wars-react-api.netlify.app/"><strong>Star Wars Data</strong></a> ⭐️
 
 ### React, TypeScript, NextJS, JavaScript, NodeJS, Express, MongoDB, CSS, HTML, Python, SQL, Git, Jest, Rest API
 
