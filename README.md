@@ -4,8 +4,9 @@ My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil
 
 I love development 💻 and I'm currently improving my skills on both `Front End` and `Back End`.
 
-Checkout my live projects: 
+Checkout my projects: 
 
+- <a href="https://github.com/joaopedromatias/next-js-notes-app/">Notes App</a> 📝 - demonstration on README
 - <a href="https://quiz-play-it.netlify.app/">Quiz Game</a> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
 
