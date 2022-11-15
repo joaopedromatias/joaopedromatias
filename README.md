@@ -9,6 +9,7 @@ Checkout my live projects:
 - <a href="https://quiz-play-it.netlify.app/">Quiz Game</a> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/">Star Wars Data</a> ⭐️
 
+**Tech Stack**: React, TypeScript, NextJS, JavaScript, NodeJS, Express, MongoDB, CSS, HTML, Python, SQL, Git, Jest, Rest API
 
 ![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
 
