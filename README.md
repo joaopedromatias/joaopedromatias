@@ -7,6 +7,7 @@ I love development 💻 and I'm currently improving my skills on both **`Front E
 ## Checkout my projects: 
 
 - <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - **demonstration on README!**
+- <a href="https://github.com/joaopedromatias/mongo-db-products-api/"><strong>Store Admin Panel</strong></a> 📝 - **demonstration on README!**
 - <a href="https://quiz-play-it.netlify.app/"><strong>Quiz Game</strong></a> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/"><strong>Star Wars Data</strong></a> ⭐️
 
