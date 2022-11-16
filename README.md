@@ -13,5 +13,3 @@ I love development 💻 and I'm currently improving my skills on both **`Front E
 ### React, TypeScript, NextJS, JavaScript, NodeJS, Express, MongoDB, CSS, HTML, Python, SQL, Git, Jest, Rest API
 
 ![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
-
-I'm currently working at <a href="https://github.com/grupoboticario">Grupo Boticário</a> in the Digital Analytics team.
