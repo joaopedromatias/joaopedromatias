@@ -11,6 +11,6 @@ I'm currently improving my skills on both **`Front End`** and **`Back End`**.
 - <a href="https://quiz-play-it.netlify.app/"><strong>Quiz Game</strong></a> 🕹️
 - <a href="https://star-wars-react-api.netlify.app/"><strong>Star Wars Data</strong></a> ⭐️
 
-### React, TypeScript, NextJS, JavaScript, NodeJS, Express, MongoDB, CSS, HTML, Python, SQL, Git, Jest, Rest API, Google Apps Script
+### React, TypeScript, NextJS, JavaScript, Micro Front End, NodeJS, Express, MongoDB, CSS, HTML, Python, SQL, Git, Jest, Rest API, Google Apps Script
 
 ![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
