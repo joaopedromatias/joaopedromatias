@@ -4,6 +4,9 @@ My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil
 
 I'm currently improving my skills on both **`Front End`** and **`Back End`**.
 
+#### 🎓 Bachelor of Science and Technology (Universidade Federal do ABC)
+#### 🎓 Bachelor in Production Engineering (Universidade Federal do ABC)
+
 ## Checkout my projects: 
 
 - <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - **demonstration on README!**
