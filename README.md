@@ -2,7 +2,7 @@
 
 My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil 
 
-I'm currently working as a Full Stack Developer on Grupo Boticario.
+I'm currently working as a Full Stack Developer at Grupo Boticario.
 
 #### 🎓 Bachelor of Science and Technology - Universidade Federal do ABC
 #### 🎓 Bachelor in Production Engineering - Universidade Federal do ABC
