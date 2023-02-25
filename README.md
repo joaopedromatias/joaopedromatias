@@ -9,7 +9,7 @@ I'm currently working as a **Full Stack Developer** at Grupo Boticario.
 
 ## Checkout my projects: 
 
-- <a href="https://quiz-play-it.netlify.app/"><strong>Quiz Game</strong></a> 🕹️ - **demonstration on README**
+- <a href="https://github.com/joaopedromatias/react-quiz-game/"><strong>Quiz Game</strong></a> 🕹️ - **demonstration on README**
 - <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - **demonstration on README**
 - <a href="https://github.com/joaopedromatias/mongo-db-express-products-api/"><strong>Store Admin Panel</strong></a> 🛒 - **demonstration on README**
 - <a href="https://star-wars-react-api.netlify.app/"><strong>Star Wars Data</strong></a> ⭐️
