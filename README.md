@@ -48,9 +48,9 @@ Article that I wrote about Autotagging & Design System at Grupo Boticário 👉 
 
 ### Database
 
-*SQL, MongoDB, AWS DynamoDB, Google Big Query*
+*PostgreSQL, MongoDB, AWS DynamoDB, Google Big Query*
 
-<img src="https://github.com/mojombo/mojombo/assets/90068133/c61a6832-9989-44d3-9ee0-3aa83f166ce9" alt="sql" width="50" height="50">
+<img src="https://github.com/joaopedromatias/gtm-module/assets/90068133/3de3bdb6-30b8-4eb2-b7e7-ec33da296f76" alt="postgresql" width="50" height="50">
 <img src="https://github.com/mojombo/mojombo/assets/90068133/d6e0f68d-cb7c-4d53-ba44-39b153ae1e33" alt="mongo db" width="50" height="50">
 <img src="https://github.com/mojombo/mojombo/assets/90068133/df6b84a1-37de-4ebb-8d7e-b5e3a383db67" alt="aws dynamo db" width="50" height="50">
 <img src="https://github.com/mojombo/mojombo/assets/90068133/9a45397c-e550-421e-83f6-d2554ac575f4" alt="googl big query" width="50" height="50">
