@@ -17,7 +17,6 @@ Article that I wrote about Autotagging & Design System at Grupo Boticário 👉 
 - <a href="https://github.com/joaopedromatias/react-quiz-game/"><strong>Quiz Game</strong></a> 🕹️ - ***demonstration on README***
 - <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - ***demonstration on README***
 - <a href="https://github.com/joaopedromatias/mongo-db-express-products-api/"><strong>Store Admin Panel</strong></a> 🛒 - ***demonstration on README***
-- <a href="https://star-wars-react-api.netlify.app/"><strong>Star Wars Data</strong></a> ⭐️
 
 ## Technologies
 
