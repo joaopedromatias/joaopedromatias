@@ -40,9 +40,10 @@ Article that I wrote about Autotagging & Design System at Grupo Boticário 👉 
 
 ### Back End
 
-*NodeJS, Express*
+*NodeJS, Fastify, Express*
 
 <img src="https://github.com/mojombo/mojombo/assets/90068133/a586ff89-e09d-4e47-879a-c018d58cf6ec" alt="nodejs" width="60" height="60">
+<img src="https://github.com/joaopedromatias/gtm-module/assets/90068133/6bbbd77a-4d3d-4554-acd6-ba47772efc47" alt="fastify" width="60" height="60">
 <img src="https://github.com/mojombo/mojombo/assets/90068133/6df3bea7-5b9d-4399-aec4-c8ad2c7cf99f" alt="express" width="80" height="50">
 
 ### Database
