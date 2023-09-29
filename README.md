@@ -8,7 +8,10 @@ I work as a Full Stack Web Developer at Grupo Boticario's Fin Ops team.
 
 🎓 Bachelor in Production Engineering - Universidade Federal do ABC
 
-Article that I wrote about Autotagging & Design System at Grupo Boticário 👉 <a href="https://medium.com/gbtech/tagueamento-autom%C3%A1tico-baseado-no-design-system-do-grupo-botic%C3%A1rio-8c68b53be43d"><strong>here</strong></a>
+## Articles 
+
+<a href="https://medium.com/gbtech/autentica%C3%A7%C3%A3o-sem-chaves-com-workload-identity-federation-544f5916b4d3"><strong>Keyless Authentication</strong></a>
+<a href="https://medium.com/gbtech/tagueamento-autom%C3%A1tico-baseado-no-design-system-do-grupo-botic%C3%A1rio-8c68b53be43d"><strong>Autotagging & Design System</strong></a>
 
 ![Joao's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromatias&langs_count=10&theme=radical&layout=compact)
 
