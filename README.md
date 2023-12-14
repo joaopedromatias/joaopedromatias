@@ -4,6 +4,8 @@ My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil 🇧🇷
 
 I work as a Full Stack Web Developer at Grupo Boticario's Fin Ops team.
 
+🏅 AWS Certified Developer Associate | DVA-C02
+
 🎓 Bachelor of Science and Technology - Universidade Federal do ABC
 
 🎓 Bachelor in Production Engineering - Universidade Federal do ABC
