@@ -20,9 +20,8 @@ I work as a Full Stack Web Developer at Grupo Boticario's FinOps team.
 
 ## Checkout my projects 👇
 
-- <a href="https://github.com/joaopedromatias/react-quiz-game/"><strong>Quiz Game</strong></a> 🕹️ - ***demonstration on README***
+- <a href="https://github.com/joaopedromatias/postgres-web-control/"><strong>Postgres Web Control</strong></a> 🕹️ - ***demonstration on README***
 - <a href="https://github.com/joaopedromatias/next-js-notes-app/"><strong>Notes App</strong></a> 📝 - ***demonstration on README***
-- <a href="https://github.com/joaopedromatias/mongo-db-express-products-api/"><strong>Store Admin Panel</strong></a> 🛒 - ***demonstration on README***
 
 ## Technologies
 
