@@ -2,7 +2,7 @@
 
 My name is João 👨🏼‍💻️ I'm from São Paulo, Brazil 🇧🇷
 
-I work as a Full Stack Web Developer at Grupo Boticario's Fin Ops team.
+I work as a Full Stack Web Developer at Grupo Boticario's FinOps team.
 
 🏅 AWS Certified Developer Associate | DVA-C02
 
